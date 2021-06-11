@@ -14,7 +14,7 @@ help = """\
 
 print('Bot starting...')
 
-TOKEN = '1832624548:AAE2EQyu357qCs_m71sYFQqExq3OH3HLrCc'
+TOKEN = ''
 
 bot = telebot.TeleBot(TOKEN)
 
